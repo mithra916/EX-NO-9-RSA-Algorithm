@@ -4,7 +4,7 @@
 To Implement RSA Encryption Algorithm in Cryptography
 
 ## Algorithm:
-```
+
 Step 1: Design of RSA Algorithm  
 The RSA algorithm is based on the mathematical difficulty of factoring the product of two large prime numbers. It involves generating a public and private key pair, where the public key is used for encryption, and the private key is used for decryption.
 
@@ -33,7 +33,7 @@ Step 4: Mathematical Representation
 
 Step 5: **Security Foundation  
 The security of RSA relies on the difficulty of factoring large numbers; thus, choosing sufficiently large prime numbers for \( p \) and \( q \) is crucial for security.
-```
+
 ## Program:
 ```
 NAME : LOGA MITHRA R
